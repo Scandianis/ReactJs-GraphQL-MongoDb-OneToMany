@@ -1,4 +1,3 @@
-import Car from './models/car'
 import Employee from './models/employee'; 
 const graphql = require('graphql');
 
